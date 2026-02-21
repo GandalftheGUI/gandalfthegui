@@ -1,4 +1,4 @@
-# Hi, I'm Ian 
+# Hi, I'm Ian 👋
 
 Solving real-world problems with AI and building tooling to better leverage this superpower.
 
