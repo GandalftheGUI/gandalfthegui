@@ -1,6 +1,4 @@
-# Hi, I'm Ian 👋
-
-📍 California
+# Hi, I'm Ian 📍 California
 
 Solving real-world problems with AI and building tooling to better leverage this superpower.
 
