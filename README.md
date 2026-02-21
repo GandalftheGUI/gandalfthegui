@@ -2,7 +2,7 @@
 
 Solving real-world problems with AI and building tooling to better leverage this superpower.
 
-💪 **[RepMentor](https://github.com/GandalftheGUI/repmentor_public/blob/main/README.md)** (closed source) –  A personal fitness tracker with an AI coach. Log workouts, track body measurements, and get coaching that knows your history. Smart and a joy to use. [Join the beta!](https://testflight.apple.com/join/WPbhbz7F)
+💪 **[RepMentor](https://github.com/GandalftheGUI/repmentor_public/blob/main/README.md)** (closed source) –  A personal fitness tracker with an AI coach. Log workouts, track body measurements, and get coaching that knows your history. Designed to be smart and a joy to use. [Join the beta!](https://testflight.apple.com/join/WPbhbz7F)
 
 ## Current Projects
 
