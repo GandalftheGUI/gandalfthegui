@@ -7,10 +7,12 @@ Solving real-world problems with AI and building tooling to better leverage this
 ## Current Projects
 
 - 🌲 **[Grove](https://github.com/GandalftheGUI/grove)** - CLI for orchestrating, supervising, and interacting with multiple AI coding agents and dev processes in parallel.
-- 🦉 **[Duolingo2Anki](https://github.com/GandalftheGUI/Duolingo2Anki)** - LLM-powered pipeline for extracting, cleaning, and normalizing Duolingo vocabulary into Anki-ready flashcards.
+- 📝 **[OpenAutoComplete](https://github.com/GandalftheGUI/open_auto_complete)** - System-wide macOS autocomplete
+  that shows ghost-text suggestions in any text field, powered by a fully local LLM. 
 
 ### Legacy Work
 
+- 🦉 **[Duolingo2Anki](https://github.com/GandalftheGUI/Duolingo2Anki)** - LLM-powered pipeline for extracting, cleaning, and normalizing Duolingo vocabulary into Anki-ready flashcards.
 - 🌐 **[llm_agent_webbrowser](https://github.com/GandalftheGUI/llm_agent_webbrowser)** - An experimental LLM-powered agent that navigates and interacts with a real web browser to complete tasks end-to-end using natural language instructions.
 - 🤖 **[llm_agent_demo](https://github.com/GandalftheGUI/llm_agent_demo)** - A minimal, self-inspecting LLM agent using Anthropic’s Claude to combine tools and reason over its own codebase to answer questions and explain behavior.
 
