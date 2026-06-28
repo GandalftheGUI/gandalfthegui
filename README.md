@@ -8,7 +8,8 @@ Solving real-world problems with AI and building tooling to better leverage this
 
 - 🌲 **[Grove](https://github.com/GandalftheGUI/grove)** - CLI for orchestrating, supervising, and interacting with multiple AI coding agents and dev processes in parallel.
 - 📝 **[OpenAutoComplete](https://github.com/GandalftheGUI/open_auto_complete)** - System-wide macOS autocomplete
-  that shows ghost-text suggestions in any text field, powered by a fully local LLM. 
+  that shows ghost-text suggestions in any text field, powered by a fully local LLM.
+- 🛡️ **[Archive-Integrity](https://github.com/GandalftheGUI/archive-integrity)** - MacOS tool for detecting silent corruption and data loss in large file archives.
 
 ### Legacy Work
 
